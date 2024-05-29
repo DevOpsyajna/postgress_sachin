@@ -1,0 +1,5 @@
+---
+- hosts: wintel
+  roles:
+    #- winrm
+    - sql
